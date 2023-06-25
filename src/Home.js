@@ -17,7 +17,7 @@ const Home = () => {
       url: 'https://bloomberg-market-and-financial-news.p.rapidapi.com/market/auto-complete',
       params: { query: company },
       headers: {
-        'X-RapidAPI-Key': 'dddbcc777bmshd30593e208368d1p173904jsn3e44e854c9f2',
+        'X-RapidAPI-Key': 'your key',
         'X-RapidAPI-Host': 'bloomberg-market-and-financial-news.p.rapidapi.com'
       }
     };
